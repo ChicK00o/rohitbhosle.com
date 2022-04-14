@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>rohitbhosle.com</title>
+    <link href="https://rohitbhosle.com/feed.xml" rel="self" />
+    <link href="https://rohitbhosle.com" />
+    <updated>2022-04-14T23:14:05+05:30</updated>
+    <author>
+        <name>Rohit Bhosle</name>
+    </author>
+    <id>https://rohitbhosle.com</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Rohit Bhosle</name>
+        </author>
+        <link href="https://rohitbhosle.com/test-post.html"/>
+        <id>https://rohitbhosle.com/test-post.html</id>
+
+        <updated>2022-04-14T23:14:05+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Test one item
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <blockquote class="blockquote">
+      Test one item
+    </blockquote>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rohitbhosle.com",
+    "description": "",
+    "home_page_url": "https://rohitbhosle.com",
+    "feed_url": "https://rohitbhosle.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rohit Bhosle"
+    },
+    "items": [
+        {
+            "id": "https://rohitbhosle.com/test-post.html",
+            "url": "https://rohitbhosle.com/test-post.html",
+            "title": "Test post",
+            "summary": "Test one item",
+            "content_html": "\n    <blockquote class=\"blockquote\">\n      Test one item\n    </blockquote>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Rohit Bhosle"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-14T23:14:05+05:30",
+            "date_modified": "2022-04-14T23:14:05+05:30"
+        }
+    ]
+}

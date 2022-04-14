@@ -1,2 +1,0 @@
-# rohitbhosle.com
-Personal Website
