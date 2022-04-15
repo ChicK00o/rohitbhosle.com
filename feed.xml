@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>rohitbhosle.com</title>
+    <title>Rohit Bhosle</title>
     <link href="https://rohitbhosle.com/feed.xml" rel="self" />
     <link href="https://rohitbhosle.com" />
-    <updated>2022-04-14T23:14:05+05:30</updated>
+    <updated>2022-04-15T22:09:33+05:30</updated>
     <author>
         <name>Rohit Bhosle</name>
     </author>
     <id>https://rohitbhosle.com</id>
 
     <entry>
-        <title>Test post</title>
+        <title>Sr. Engineering Manager at RazorpayX</title>
         <author>
             <name>Rohit Bhosle</name>
         </author>
-        <link href="https://rohitbhosle.com/test-post.html"/>
-        <id>https://rohitbhosle.com/test-post.html</id>
+        <link href="https://rohitbhosle.com/sr-engineering-manager-at-razorpayx.html"/>
+        <id>https://rohitbhosle.com/sr-engineering-manager-at-razorpayx.html</id>
 
-        <updated>2022-04-14T23:14:05+05:30</updated>
+        <updated>2022-04-15T22:09:33+05:30</updated>
             <summary>
                 <![CDATA[
-                    Test one item
+                    Aiming to be Full Stack Engineering Maven and Engineering Leader
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-    <blockquote class="blockquote">
-      Test one item
-    </blockquote>
-
-  <p>
-    
-  </p>
+    <h2 id="aiming-to-be-full-stack-engineering-maven-and-engineering-leader">
+      Aiming to be Full Stack Engineering Maven and Engineering Leader
+    </h2>
             ]]>
         </content>
     </entry>
