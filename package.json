@@ -1,0 +1,18 @@
+{
+  "name": "rohitbhosle.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ChicK00o/rohitbhosle.com.git",
+  "author": "ChicK00o <mail@rohitbhosle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.7",
+    "autoprefixer": "^10.4.10",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^4.5.12"
+  }
+}
