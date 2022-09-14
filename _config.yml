@@ -4,14 +4,14 @@ url: "https://rohitbhosle.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Rohit Bhosle"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+description: Aiming to be Full Stack Engineering Maven and Engineering Leader
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Rohit Bhosle
-author-bio: Creator of Bitcoin  # change to false to hide
+author-bio: Aiming to be Full Stack Engineering Maven and Engineering Leader  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
