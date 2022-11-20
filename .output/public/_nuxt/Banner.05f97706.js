@@ -1,0 +1,1 @@
+import{m as e,o as n,a as o}from"./entry.095e462b.js";const c={};function a(r,t){return n(),o("aside",null," This component does not have any children. ")}const _=e(c,[["render",a]]);export{_ as default};

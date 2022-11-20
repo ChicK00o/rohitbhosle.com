@@ -1,0 +1,1 @@
+import s from"./ContentSlot.dd5df7a8.js";import{o as a,a as n,b as r,e as l}from"./entry.095e462b.js";const u={__name:"Alert",props:["type"],setup(e){return(t,c)=>{const o=s;return a(),n("div",{class:l([e.type])},[r(o,{use:t.$slots.default,unwrap:"p"},null,8,["use"])],2)}}};export{u as default};
