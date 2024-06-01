@@ -1,0 +1,25 @@
+baseURL: https://rohitbhosle.com/
+languageCode: en-us
+title: Rohit Bhosle
+
+theme: ["PaperMod"]
+
+publishDir: docs
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "Engineering Leader"
+    imageUrl: "images/rohit_avatar.jpeg" # optional
+    imageTitle: "Rohit Bhosle" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    # buttons:
+    #   - name: Github
+    #     url: "https://github.com/ChicK00o"
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/ChicK00o"
+    - name: "Twitter"
+      url: "https://x.com/ChicK00o"
