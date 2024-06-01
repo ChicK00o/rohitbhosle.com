@@ -12,8 +12,8 @@ params:
     subtitle: "Engineering Leader"
     imageUrl: "images/rohit_avatar.jpeg" # optional
     imageTitle: "Rohit Bhosle" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
     # buttons:
     #   - name: Github
     #     url: "https://github.com/ChicK00o"
@@ -23,3 +23,5 @@ params:
       url: "https://github.com/ChicK00o"
     - name: "Twitter"
       url: "https://x.com/ChicK00o"
+
+  favicon: "favicon.ico"
